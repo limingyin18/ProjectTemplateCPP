@@ -1,0 +1,11 @@
+# build files
+build/
+
+# clangd cache
+.cache
+
+# build database file for clangd
+compile_commands.json
+
+# doc
+doc/
